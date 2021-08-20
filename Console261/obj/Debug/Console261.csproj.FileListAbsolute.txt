@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Console261\bin\Debug\Console261.exe.config
+C:\Users\User\source\repos\Console261\bin\Debug\Console261.exe
+C:\Users\User\source\repos\Console261\bin\Debug\Console261.pdb
+C:\Users\User\source\repos\Console261\obj\Debug\Console261.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Console261\obj\Debug\Console261.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Console261\obj\Debug\Console261.exe
+C:\Users\User\source\repos\Console261\obj\Debug\Console261.pdb
+C:\Users\User\xa-bootcamp-batch-261-qa\08. Naufal\Console261\obj\Debug\Console261.csproj.CoreCompileInputs.cache
+C:\Users\User\xa-bootcamp-batch-261-qa\08. Naufal\Console261\obj\Debug\Console261.exe
+C:\Users\User\xa-bootcamp-batch-261-qa\08. Naufal\Console261\obj\Debug\Console261.pdb
+C:\Users\User\xa-bootcamp-batch-261-qa\08. Naufal\Console261\bin\Debug\Console261.exe.config
+C:\Users\User\xa-bootcamp-batch-261-qa\08. Naufal\Console261\bin\Debug\Console261.exe
+C:\Users\User\xa-bootcamp-batch-261-qa\08. Naufal\Console261\bin\Debug\Console261.pdb
+C:\Users\User\xa-bootcamp-batch-261-qa\08. Naufal\Console261\obj\Debug\Console261.csproj.AssemblyReference.cache
